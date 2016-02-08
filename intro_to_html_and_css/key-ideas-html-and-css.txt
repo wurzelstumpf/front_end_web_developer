@@ -1,0 +1,16 @@
+Some of the key ideas from the course Inroduction to HTML and CSS
+
+    HTML describes the structure and semantic content of a document.
+    The structure and semantic content of a HTML document is tagged with
+    HTML Elements such as <head> <title> <p> <div> <section>.
+    The structure of a document is like an inverted tree with the <html>
+    element being the root of the document.
+
+    A web page is essentially a collection of boxes laid 
+        out next to and on top of each other.
+    CSS describes how each element of the tree should be presented.
+    
+    
+
+
+        
