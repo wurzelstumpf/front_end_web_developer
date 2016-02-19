@@ -1,0 +1,29 @@
+/*
+ * Intro to CSS and HTML - lesson 3 - style.css
+ */
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+hr {
+    border: 2px solid #BCBBBB;
+}
+
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.title-super {
+    font-size: 60px;
+}
