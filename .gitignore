@@ -1,0 +1,32 @@
+# .gitignore
+#
+# Ignore all
+*
+
+# But not
+!.gitignore
+
+# And not html files
+!*.html
+
+# And not cascading style sheet files
+!*.css
+
+# And not java script files
+!*.js
+
+# And not text files
+!*.txt
+
+# And not pdf files
+!*.pdf
+
+# And not markdown
+!*.md
+
+# And not the license
+!License
+
+# And not directories
+!*/
+
